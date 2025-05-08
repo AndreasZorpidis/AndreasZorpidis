@@ -19,8 +19,8 @@ I'm a Full Stack Software Engineer and PhD Candidate based in Athens, Greece ðŸ‡
 
 ## ðŸš€ Selected Projects (More on my Website)
 
-> Due to NDAs and private repos, most of my professional code isn't on GitHub.  
-> Instead, view real-world demos and breakdowns at **[andreaszorpidis.com](https://andreaszorpidis.com)**.
+> Due to NDAs and private repos, my professional code isn't on GitHub.  
+> Instead, view real-world demos and breakdowns at **[andreaszorpidis.com/work](https://andreaszorpidis.com/work)**.
 
 ---
 
