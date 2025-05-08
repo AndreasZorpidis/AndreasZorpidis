@@ -2,7 +2,7 @@
 
 Hey there! 👋
 
-Most of my professional and recent development work is in **private repositories** due to NDAs and company policies.
+My professional and recent development work is in **private repositories** due to NDAs and company policies.
 
 👉 But you can **see live project demos, case studies, and detailed write-ups** on my portfolio website:
 
