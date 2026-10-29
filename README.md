@@ -5,5 +5,5 @@ Designing and delivering products, platforms, and digital experiences across AI,
 Most professional work is private. This profile contains personal projects, experiments, research prototypes, and archived code.
 
 🌐 andreaszorpidis.com
-🚀 awkward.studio
+🚀 apekon.com
 🏢 digitalrates.ai
